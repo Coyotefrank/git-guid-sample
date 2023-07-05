@@ -1,0 +1,1 @@
+# git-guid-sample
